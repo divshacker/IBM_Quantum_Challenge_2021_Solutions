@@ -1,7 +1,9 @@
-##Solutions
+## Solutions For Exercise 1
 
 This exercise is all about the Decomposition of [Toffoli gate](https://en.wikipedia.org/wiki/Toffoli_gate "Toffoli gate") (ccx gate).This exercise is pretty easy if you know the decomposition of ccx gate.
+
 ![image](https://user-images.githubusercontent.com/55018955/119766983-ac1eab00-bed3-11eb-942e-9969b2dcace2.png)
+
 If you run this exact circuit then it will not work. As I have said earlier that this exercise is all about decomposition. So one have to decompose this circuit further. This might be easy if you know these transistions. 
 
 ![download](https://user-images.githubusercontent.com/55018955/119766114-12a2c980-bed2-11eb-9223-1bed25f13a4b.png)
